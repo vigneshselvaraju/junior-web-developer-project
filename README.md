@@ -1,15 +1,15 @@
-Confederation College Programs - One-Page Static Site
-Overview
+**Confederation College Programs - One-Page Static Site
+Overview**
 
 This is a one-page static website built with React, Bootstrap, and Material UI to display programs offered by Confederation College. Each program card shows:
 
-Program name
+1.Program name
 
-Mission statement (or fallback “No description yet.”)
+2.Mission statement (or fallback “No description yet.”)
 
-Link to the official program page
+3.Link to the official program page
 
-Tech Stack
+**Tech Stack**
 
 React - Frontend library
 
@@ -19,24 +19,23 @@ Material UI - Card components and buttons
 
 Vite - Development server and build tool
 
-Project Setup
+**Project Setup**
 
-Clone the repository:
+**Clone the repository:**
 
 git clone https://github.com/vigneshselvaraju/junior-web-developer-project.git
 
-
-Navigate into the project folder:
+**Navigate into the project folder:**
 
 cd junior-web-developer-project
 
 
-Install dependencies:
+**Install dependencies:**
 
 npm install
 
 
-Start the development server:
+**Start the development server:**
 
 npm run dev
 
