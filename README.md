@@ -1,17 +1,44 @@
-<<<<<<< HEAD
-# React + Vite
+Confederation College Programs - One-Page Static Site
+Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a one-page static website built with React, Bootstrap, and Material UI to display programs offered by Confederation College. Each program card shows:
 
-Currently, two official plugins are available:
+Program name
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Mission statement (or fallback “No description yet.”)
 
-## Expanding the ESLint configuration
+Link to the official program page
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# junior-web-developer-project
-It is a static one page website built using ReactJs and Bootstrap &amp; Material UI
->>>>>>> 132d53c650cced7470ae1e1b61e55a891663d452
+Tech Stack
+
+React - Frontend library
+
+Bootstrap - Layout and responsive grid
+
+Material UI - Card components and buttons
+
+Vite - Development server and build tool
+
+Project Setup
+
+Clone the repository:
+
+git clone https://github.com/vigneshselvaraju/junior-web-developer-project.git
+
+
+Navigate into the project folder:
+
+cd junior-web-developer-project
+
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
+npm run dev
+
+
+Open http://localhost:5173 to view the site locally.
